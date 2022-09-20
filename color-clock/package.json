@@ -1,0 +1,17 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "node": "^18.9.0",
+    "package.json": "^2.0.1",
+    "serve": "^14.0.1"
+  },
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
